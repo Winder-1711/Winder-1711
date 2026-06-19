@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hola, soy Winder Delgado 👋
 
-<!--
-**Winder-1711/Winder-1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Specialist
 
-Here are some ideas to get you started:
+Especializado en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agents
+- Conversational AI
+- Voice AI
+- Workflow Automation
+- Lead Generation Automation
+- Customer Success Technology
+
+### Tecnologías
+
+- Relevance AI
+- ElevenLabs
+- Zapier
+- MCP
+- SQL
+- HTML
+- CSS
+- Databricks
+
+### Experiencia
+
+- Más de 20 agentes de IA desarrollados
+- Agentes de voz desplegados en sitios web
+- Automatizaciones empresariales implementadas
+- Soluciones para soporte, ventas y generación de leads
+
+### Proyectos
+
+🚀 WimagAI
+
+🤖 AI Support Agents
+
+🎙️ Voice AI Agents
+
+📈 Lead Generation Agents
+
+✍️ Content Creation Agents
+
+### Contacto
+
+LinkedIn:
+www.linkedin.com/in/winder-delgado-76160a305
+
+Website:
+https://wimagai.lovable.app## Hi there 👋
+
