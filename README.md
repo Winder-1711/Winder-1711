@@ -1,4 +1,4 @@
-![Winder Jesús — AI Automation Specialist](assets/banner.jpg)
+![Winder Jesús — AI Automation Specialist](assets/banner.png)
 
 # ¡Hola! Soy Winder Jesús 👋
 
