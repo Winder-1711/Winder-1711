@@ -5,7 +5,7 @@
 **AI Automation Specialist** · Conversational AI · Voice AI · Workflow Automation
 📍 Valencia, España · [Wimag AI](https://wimagai.lovable.app)
 
-Diseño y construyo agentes de IA y automatizaciones end-to-end para negocios: desde asistentes de voz y soporte hasta pipelines de generación de leads y creación de contenido. Trabajo principalmente con **Relevance AI**, **ElevenLabs**, **Lovable**, **Emergent**, **Claude Code**, **Cursor** y **Zapier**.
+Diseño y construyo agentes de IA y automatizaciones end-to-end para negocios: desde asistentes de voz y soporte hasta pipelines de generación de leads y creación de contenido. Trabajo principalmente con **Relevance AI**, **ElevenLabs**, **Lovable**, **Emergent**, **Claude Code**, **Codex**, **Cursor**, **Composio**, **Zapier**, **MCP** y **Freepik(Magnific)**.
 
 ## 🧠 En qué trabajo
 
@@ -28,9 +28,9 @@ Diseño y construyo agentes de IA y automatizaciones end-to-end para negocios: d
 
 ## 🛠️ Herramientas
 
-Relevance AI · ElevenLabs · Lovable · Emergent · Claude Code · Cursor · Zapier · React · TypeScript
+Relevance AI · ElevenLabs · Lovable · Emergent · Claude Code · Codex · Cursor · Composio · Zapier · React · TypeScript · MCP · Freepik(Magnific) ·
 
 ## 📫 Contacto
 
 ¿Tienes un proyecto de automatización con IA en mente? Hablemos.
-- Email: team.wimagai@gmail.com
+- Email: winder171185@gmail.com
