@@ -7,6 +7,8 @@
 
 Diseño y construyo agentes de IA y automatizaciones end-to-end para negocios: desde asistentes de voz y soporte hasta pipelines de generación de leads y creación de contenido. Trabajo principalmente con **Relevance AI**, **ElevenLabs**, **Lovable**, **Emergent**, **Claude Code**, **Codex**, **Cursor**, **Composio**, **Zapier**, **MCP** y **Freepik(Magnific)**.
 
+![Relevance AI](https://img.shields.io/badge/Relevance_AI-6C5CE7?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge) ![Lovable](https://img.shields.io/badge/Lovable-FF6154?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
 ## 🧠 En qué trabajo
 
 - **Agentes conversacionales y de voz** — soporte al cliente, FAQs, atención 24/7 (ElevenLabs, Relevance AI)
@@ -26,6 +28,10 @@ Diseño y construyo agentes de IA y automatizaciones end-to-end para negocios: d
 | [AI-Support-Agents](https://github.com/Winder-1711/AI-Support-Agents) | Agentes de soporte y atención al cliente |
 | [WimagAI](https://github.com/Winder-1711/WimagAI) | Landing page de mi agencia (Lovable) — [demo en vivo](https://wimagai.lovable.app) |
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Winder-1711&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winder-1711&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+
 ## 🛠️ Herramientas
 
 Relevance AI · ElevenLabs · Lovable · Emergent · Claude Code · Codex · Cursor · Composio · Zapier · React · TypeScript · MCP · Freepik(Magnific) ·
@@ -34,3 +40,4 @@ Relevance AI · ElevenLabs · Lovable · Emergent · Claude Code · Codex · Cur
 
 ¿Tienes un proyecto de automatización con IA en mente? Hablemos.
 - Email: winder171185@gmail.com
+- LinkedIn: [winder-delgado-ai](https://www.linkedin.com/in/winder-delgado-ai)
